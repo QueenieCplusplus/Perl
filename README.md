@@ -27,11 +27,13 @@ To Be Done... 尚未完成。
 
 * Pod https://github.com/QueenieCplusplus/Perl/blob/master/pod.pl
 
-讀入檔案與輸出模組
+讀入檔案、引用模組方法、輸出模組
 
 * require https://github.com/QueenieCplusplus/Perl/blob/master/require.pl
 
-* use
+* use https://github.com/QueenieCplusplus/Perl/blob/master/use.pl
+
+* import
 
 資料處理
 
