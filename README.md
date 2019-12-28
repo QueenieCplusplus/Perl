@@ -27,6 +27,12 @@ To Be Done... 尚未完成。
 
 * Pod https://github.com/QueenieCplusplus/Perl/blob/master/pod.pl
 
+讀入檔案與輸出模組
+
+* require
+
+* use
+
 資料處理
 
 * Data::Dumper
