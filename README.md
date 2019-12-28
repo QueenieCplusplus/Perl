@@ -5,7 +5,7 @@ To Be Done... 尚未完成。
 
 變量
 
-scalar(純量)
+* scalar(純量)
 
 運算符號：
 
@@ -46,8 +46,5 @@ scalar(純量)
 簡明文件
 
 * Pod
-
-
-
 
 
