@@ -33,7 +33,7 @@ To Be Done... 尚未完成。
 
 * use https://github.com/QueenieCplusplus/Perl/blob/master/use.pl
 
-* import
+* import https://github.com/QueenieCplusplus/Perl/blob/master/import.pl
 
 資料處理
 
