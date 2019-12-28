@@ -17,7 +17,7 @@ To Be Done... 尚未完成。
 
 * do
 
-串列運算
+串列運算，也可用 foreach 取代
 
 * map https://github.com/QueenieCplusplus/Perl/blob/master/map.pl
 
