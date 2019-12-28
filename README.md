@@ -29,7 +29,7 @@ To Be Done... 尚未完成。
 
 讀入檔案與輸出模組
 
-* require
+* require https://github.com/QueenieCplusplus/Perl/blob/master/require.pl
 
 * use
 
