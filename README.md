@@ -23,6 +23,10 @@ To Be Done... 尚未完成。
 
 * grep https://github.com/QueenieCplusplus/Perl/blob/master/grep.pl
 
+簡明文件，iOS 也會用到
+
+* Pod
+
 資料處理
 
 * Data::Dumper
@@ -39,17 +43,11 @@ To Be Done... 尚未完成。
 
 * IO::Pipe
 
-* IO::File
-
 組建系統
 
 * Makefile
 
 * Build
-
-簡明文件
-
-* Pod
 
 內建模組(有函式模組和物件導向型別模組)
 
