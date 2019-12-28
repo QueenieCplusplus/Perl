@@ -9,6 +9,8 @@ To Be Done... 尚未完成。
 
 * do
 
+串列運算
+
 * map
 
 * grep
