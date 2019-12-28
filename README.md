@@ -13,9 +13,9 @@ To Be Done... 尚未完成。
 
 運算符號：
 
-* eval https://github.com/QueenieCplusplus/Perl/blob/master/eval.pl
+* eval https://github.com/QueenieCplusplus/Perl/blob/master/eval.pl (危險！)
 
-* do
+* do https://github.com/QueenieCplusplus/Perl/blob/master/do.pl
 
 串列運算，也可用 foreach 取代
 
