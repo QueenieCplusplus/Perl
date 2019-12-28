@@ -27,7 +27,7 @@ To Be Done... 尚未完成。
 
 * Pod https://github.com/QueenieCplusplus/Perl/blob/master/pod.pl
 
-讀入檔案、引用模組方法、匯出常式的匯入(副檔名須改為 .pm)
+讀入檔案、引用模組方法、匯出模組的匯入常式 (副檔名須改為 .pm)
 
 * require https://github.com/QueenieCplusplus/Perl/blob/master/require.pl
 
