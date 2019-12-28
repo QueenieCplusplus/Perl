@@ -19,7 +19,7 @@ To Be Done... 尚未完成。
 
 串列運算
 
-* map
+* map https://github.com/QueenieCplusplus/Perl/blob/master/map.pl
 
 * grep https://github.com/QueenieCplusplus/Perl/blob/master/grep.pl
 
