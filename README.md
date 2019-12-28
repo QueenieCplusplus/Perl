@@ -3,6 +3,10 @@
 
 To Be Done... 尚未完成。
 
+副常式
+
+* subroutine
+
 變量
 
 * scalar(純量)
