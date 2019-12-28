@@ -3,7 +3,7 @@
 
 To Be Done... 尚未完成。
 
-副常式
+副常式常應用在副常式參照 
 
 * subroutine
 
