@@ -51,7 +51,7 @@ To Be Done... 尚未完成。
 
 * Pod
 
-內建模組
+內建模組(有函式模組和物件導向模組)
 
 https://www.cpan.org
 
