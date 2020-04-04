@@ -6,7 +6,7 @@
 //而且輸入一項目，不限定只輸出一項目
 //使用雜湊 hash 紀錄鍵值對
 
-q inputNum = (1, 2, 3, 5, 7, 9);
-q %hash = map { $_, 10* $_ } @inputNum;
+my inputNum = (1, 2, 3, 5, 7, 9);
+my %hash = map { $_, 10* $_ } @inputNum;
 
 
