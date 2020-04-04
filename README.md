@@ -1,9 +1,11 @@
 # Perl
 網路腳本語言
 
-To Be Done... 尚未完成。
-
 副常式常應用在副常式參照，資料結構儲存於變數中，而行為儲存於副常式中。
+
+# Perl' Syntax
+
+see https://github.com/QueenieCplusplus/Perl_Again/blob/master/README.md (2020/4/4)
 
 * subroutine
 
