@@ -12,5 +12,5 @@ eval '$sum = 2 + 2';
 print " The sum is $sum\n";
 
 
-q $result = eval "2+2";
+my $result = eval "2+2";
 print "the result is $result\n"
