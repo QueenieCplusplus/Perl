@@ -7,8 +7,8 @@
 //倘若結果為真，則 grep 將 $_ 傳給輸出串列 output list，如等號的左側 @large5
 
 
-q @inputNum = (1, 2, 3, 4, 7, 9, 0);
-q @large5 = grep $_ > 5, @inputNum; 
+my @inputNum = (1, 2, 3, 4, 7, 9, 0);
+my @large5 = grep $_ > 5, @inputNum; 
 
 
 //執行 grep 時，它將 $_ 原有的值暫存別處，
@@ -21,7 +21,7 @@ q @large5 = grep $_ > 5, @inputNum;
 //則放入 subroutine
 //符號 sub
 
-q @sum = grep sumIsOdd($_), @inputNum;
+my @sum = grep sumIsOdd($_), @inputNum;
 
 sub sumIsOdd{
   
