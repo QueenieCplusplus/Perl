@@ -8,7 +8,7 @@
 //方便地區帶一堆if-elseif-else
 // ... means condition
 
-q $bbb = do {
+my $bbb = do {
 
     if(...){'A'}
     elseif(...){'B'}
@@ -17,7 +17,7 @@ q $bbb = do {
 
 //取代如下繁雜的變數賦值
 
-q $bbb;
+my $bbb;
 
 if(...){
 
